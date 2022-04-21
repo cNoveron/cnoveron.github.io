@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://cnoveron.github.io/csb-ljsgge/static/css/main.a79fa62c.chunk.css",
-    "main.js": "https://cnoveron.github.io/csb-ljsgge/static/js/main.0424b4ee.chunk.js",
-    "main.js.map": "https://cnoveron.github.io/csb-ljsgge/static/js/main.0424b4ee.chunk.js.map",
-    "runtime-main.js": "https://cnoveron.github.io/csb-ljsgge/static/js/runtime-main.82cb04a3.js",
-    "runtime-main.js.map": "https://cnoveron.github.io/csb-ljsgge/static/js/runtime-main.82cb04a3.js.map",
-    "static/js/2.3de611a7.chunk.js": "https://cnoveron.github.io/csb-ljsgge/static/js/2.3de611a7.chunk.js",
-    "static/js/2.3de611a7.chunk.js.map": "https://cnoveron.github.io/csb-ljsgge/static/js/2.3de611a7.chunk.js.map",
-    "index.html": "https://cnoveron.github.io/csb-ljsgge/index.html",
-    "precache-manifest.5a70325f5b6759ec203c386f379570c7.js": "https://cnoveron.github.io/csb-ljsgge/precache-manifest.5a70325f5b6759ec203c386f379570c7.js",
-    "service-worker.js": "https://cnoveron.github.io/csb-ljsgge/service-worker.js",
-    "static/css/main.a79fa62c.chunk.css.map": "https://cnoveron.github.io/csb-ljsgge/static/css/main.a79fa62c.chunk.css.map",
-    "static/media/233.jpg": "https://cnoveron.github.io/csb-ljsgge/static/media/233.1600b9e7.jpg",
-    "static/media/diamond.glb": "https://cnoveron.github.io/csb-ljsgge/static/media/diamond.ab7b6e3a.glb"
+    "main.css": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/css/main.a79fa62c.chunk.css",
+    "main.js": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/main.0424b4ee.chunk.js",
+    "main.js.map": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/main.0424b4ee.chunk.js.map",
+    "runtime-main.js": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/runtime-main.82cb04a3.js",
+    "runtime-main.js.map": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/runtime-main.82cb04a3.js.map",
+    "static/js/2.3de611a7.chunk.js": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/2.3de611a7.chunk.js",
+    "static/js/2.3de611a7.chunk.js.map": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/js/2.3de611a7.chunk.js.map",
+    "index.html": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/index.html",
+    "precache-manifest.5a70325f5b6759ec203c386f379570c7.js": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/precache-manifest.5a70325f5b6759ec203c386f379570c7.js",
+    "service-worker.js": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/service-worker.js",
+    "static/css/main.a79fa62c.chunk.css.map": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/css/main.a79fa62c.chunk.css.map",
+    "static/media/233.jpg": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/static/media/233.1600b9e7.jpg",
+    "static/media/diamond.glb": "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/media/diamond.ab7b6e3a.glb"
   },
   "entrypoints": [
     "static/js/runtime-main.82cb04a3.js",
