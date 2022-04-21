@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/precache-manifest.5a70325f5b6759ec203c386f379570c7.js"
+  "https://raw.githubusercontent.com/cNoveron/cnoveron.github.io/gh-pages/precache-manifest.5a70325f5b6759ec203c386f379570c7.js"
 );
 
 self.addEventListener('message', (event) => {
